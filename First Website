@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Oliver Smith - CV</title>
+</head>
+
+body
+
+<header>
+  <h1> Oliver Smith - CV</h1>
+</header>
+
+<main>
+    <section>
+        <h2> Work History </h2>
+    </section>
+</main>
+
+<footer>
+    <p> Last Updated 02/10/2018 </p>
+</footer>
+</html>
